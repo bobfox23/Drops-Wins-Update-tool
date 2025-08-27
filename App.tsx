@@ -1,8 +1,7 @@
-
 import React, { useState } from 'react';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import TextAreaInput from './components/TextAreaInput';
+import Header from './components/Header.tsx';
+import Footer from './components/Footer.tsx';
+import TextAreaInput from './components/TextAreaInput.tsx';
 
 const App: React.FC = () => {
     const [mainData, setMainData] = useState<string>('');
