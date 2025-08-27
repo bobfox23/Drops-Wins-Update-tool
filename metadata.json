@@ -1,0 +1,5 @@
+{
+  "name": "Drops & Wins Update tool",
+  "description": "A tool to update the 'isGamePopular' status for a list of games from a larger dataset and export the changes as a CSV file for CMS import.",
+  "requestFramePermissions": []
+}
